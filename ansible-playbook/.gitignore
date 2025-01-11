@@ -2,3 +2,4 @@ fact_files/*
 log/*
 retry_files/
 *.swp
+*.retry
